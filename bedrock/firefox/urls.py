@@ -140,4 +140,7 @@ urlpatterns = (
     # Issue 7765, 7709
     page('firefox/privacy', 'firefox/privacy/index.html'),
     page('firefox/privacy/products', 'firefox/privacy/products.html'),
+
+    # Default browser campaign
+    page('firefox/set-as-default', 'firefox/campaign/default-browser/landing-page.html')
 )

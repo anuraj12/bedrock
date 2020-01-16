@@ -641,6 +641,12 @@
     },
     {
       "files": [
+        "css/firefox/campaign/default-browser.scss"
+      ],
+      "name": "firefox-default-browser"
+    },
+    {
+      "files": [
         "css/firefox/enterprise/landing.scss"
       ],
       "name": "firefox-enterprise"
